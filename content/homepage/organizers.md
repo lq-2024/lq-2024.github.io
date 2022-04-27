@@ -45,4 +45,17 @@ header_menu: true
 
 
 ##### Program Committee
-More information soon
+
+* Rocío Alaíz-Rodríguez, University of León, ES
+* Gustavo Batista, University of New South Wales, AU
+* Mirko Bunse, University of Dortmund, DE
+* Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
+* Alessandro Fabris, Università di Padova, IT
+* Cèsar Ferri, Universitat Politècnica de València, ES
+* George Forman, Amazon Research, US
+* Wei Gao, Singapore Management University, SG
+* Eric Gaussier, University of Grenoble, FR
+* Rafael Izbicki, Federal University of São Carlos, BR
+* André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR 
+* Marco Saerens, Catholic University of Louvain, BE
+* Dirk Tasche, Swiss Financial Market Supervisory Authority, CH
