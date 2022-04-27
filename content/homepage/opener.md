@@ -3,7 +3,7 @@ title: "Welcome"
 weight: 1
 ---
 
-LQ 2022 is a workshop co-located with the [ECML/PKDD 2022](https://2022.ecmlpkdd.org/) conference.
+LQ 2022 is a half-day workshop co-located with the [ECML/PKDD 2022](https://2022.ecmlpkdd.org/) conference.
 
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“), is the task of training class prevalence estimators via supervised learning. In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample.
 
