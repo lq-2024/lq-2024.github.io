@@ -3,4 +3,4 @@ title: "Program"
 weight: 3
 header_menu: true
 ---
-More information soon
+The full program of the workshop will be published during the summer 2022
