@@ -45,15 +45,4 @@ header_menu: true
 
 
 ##### Program Committee
-- Rocı́o Alaı́z-Rodrı́guez, University of León, ES
-- Gustavo Batista, University of New South Wales, AU
-- Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
-- Cèsar Ferri, Universitat Politècnica de València, ES
-- George Forman, Amazon Research, US
-- Wei Gao, Singapore Management University, SG
-- Eric Gaussier, University of Grenoble, FR
-- Rafael Izbicki, Federal University of São Carlos, BR
-- Connor T. Jerzak, Harvard University, US
-- André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR
-- Marco Saerens, Catholic University of Louvain, BE
-- Dirk Tasche, Swiss Financial Market Supervisory Authority, CH
+More information soon
