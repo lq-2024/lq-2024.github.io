@@ -34,7 +34,6 @@ Workshop chairs:
 * Fabrizio Sebastiani, Consiglio Nazionale delle Ricerche, Italy
 
 
-
 ##### Important dates 
 
 *all 23:59 AoE*:
@@ -53,4 +52,4 @@ Papers should be formatted according to the same format as for the main ECML/PKD
 
 The workshop will be a hybrid event, but it is strongly recommended that authors of accepted papers present the work in-presence. At least one author of each accepted paper must register to present the work. The proceedings of the workshop will not be formally published, so as to allow authors to resubmit their work to other conferences. Informal proceedings will be published on the workshop website; however, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to these proceedings.
 
-Contact: [LQ2022Chairs@isti.cnr.it](LQ2022Chairs@isti.cnr.it)
+Contact: [LQ2022Chairs@isti.cnr.it](mailto:LQ2022Chairs@isti.cnr.it)
