@@ -1,5 +1,5 @@
 ---
-title: "Organizers"
+title: "Chairs"
 weight: 3
 header_menu: true
 ---
