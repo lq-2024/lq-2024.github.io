@@ -33,15 +33,15 @@ Workshop chairs:
 * Alejandro Moreo, Consiglio Nazionale delle Ricerche, Italy
 * Fabrizio Sebastiani, Consiglio Nazionale delle Ricerche, Italy
 
-Contact: LQ2022Chairs@isti.cnr.it
+
 
 ##### Important dates 
 
-(all 23:59 AoE):
+*all 23:59 AoE*:
 
-**Paper submission deadline**: June 20, 2022
-**A/R notification deadline**: July 13, 2022
-**Final copy submission deadline**:	August 30, 2022
+* **Paper submission deadline**: June 20, 2022
+* **A/R notification deadline**: July 13, 2022
+* **Final copy submission deadline**:	August 30, 2022
 
 ##### Submission
 
@@ -49,5 +49,8 @@ Papers should be submitted via the EasyChair system at [EasyChair](https://easyc
 
 Papers should be formatted according to the same format as for the main ECML/PKDD 2022 conference, and should be up to 16 pages (including references) in length; however, this is just the upper bound, and contributions of any length up to this bound will be considered.
 
+##### Other information
+
 The workshop will be a hybrid event, but it is strongly recommended that authors of accepted papers present the work in-presence. At least one author of each accepted paper must register to present the work. The proceedings of the workshop will not be formally published, so as to allow authors to resubmit their work to other conferences. Informal proceedings will be published on the workshop website; however, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to these proceedings.
 
+Contact: [LQ2022Chairs@isti.cnr.it](LQ2022Chairs@isti.cnr.it)
