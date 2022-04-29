@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-We seek papers on topics of relevance to LQ. Two categories of papers are of interest:
+Two categories of papers are of interest:
 
 * papers reporting original, unpublished research
 * papers {published in 2022 / currently under submission / accepted in 2022} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}
