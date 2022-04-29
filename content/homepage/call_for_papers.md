@@ -9,8 +9,8 @@ The goal of this workshop is to bring together all researchers interested in met
 
 We seek papers on topics of relevance to LQ. Two categories of papers are of interest:
 
-* papers reporting original, unpublished research; 
-* papers {published in 2022 / currently under submission / accepted in 2022} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}.
+* papers reporting original, unpublished research
+* papers {published in 2022 / currently under submission / accepted in 2022} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}
 
 We seek papers on any of the following topics, which will form the main themes of the workshop:
 * Binary, multiclass, and ordinal LQ
