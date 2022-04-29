@@ -12,3 +12,10 @@ LQ is interesting in all applications of classification in which the final goal 
 While LQ may in principle be solved by classifying each data item in the sample and counting how many such items have been labelled with a certain class, it has been shown that this “classify and count” method yields suboptimal quantification accuracy. As a result, quantification is now no longer considered a mere byproduct of classification, and has evolved as a task of its own.
 
 The goal of this workshop is to bring together all researchers interested in methods, algorithms, evaluation measures, evaluation protocols, and methodologies for LQ, as well as practitioners interested in the practical application of the above to managing large quantities of data.
+
+{{< /rawhtml >}}
+
+<div style="vertical-align: middle">
+    <img src="images/ai4media.png" alt="ai4media logo" style="padding-right:10px" width="400"/>
+    <img src="images/SoBigData.png" alt="sobigdata logo " width="400"/>
+</div> 
