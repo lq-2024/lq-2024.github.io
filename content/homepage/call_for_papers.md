@@ -35,7 +35,7 @@ and other topics of relevance to LQ.
 
 ##### Submission
 
-Papers should be submitted via the EasyChair system at [EasyChair](https://easychair.org/conferences/?conf=lq2022).
+Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=lq2022).
 
 Papers should be formatted according to the same format as for the main ECML/PKDD 2022 conference, and should be up to 16 pages (including references) in length; however, this is just the upper bound, and contributions of any length up to this bound will be considered.
 
