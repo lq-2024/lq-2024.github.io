@@ -30,7 +30,7 @@ and other topics of relevance to LQ.
 * Paper submission deadline: June 20, 2022
 * A/R notification deadline: July 13, 2022
 * Final copy submission deadline:	August 30, 2022
-* LQ 2022 workshop: September 23, 2022
+* LQ 2022 workshop: September 23, 2022 (morning)
 
 
 ##### Submission
