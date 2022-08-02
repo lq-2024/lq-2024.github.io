@@ -24,4 +24,4 @@ Friday, September 23
 <tr> <td> 12:00	</td> <td> 12:45	</td> <td> Open discussion	(Chair: Juan José del Coz)</td></tr>
 </table>
 
-{{</ rawhtml >}}
+{{< /rawhtml >}}
