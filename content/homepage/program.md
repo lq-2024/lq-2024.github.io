@@ -8,7 +8,8 @@ LQ 2022 is a half-day workshop, and will take place in Grenoble in the morning o
 The following is a preliminary program (precise timings are subject to change)
 
 Friday, September 23	
-			
+
+{{< rawhtml >}}
 <table>
 <tr> <td> 09:00 </td> <td> 09:15	</td> <td> Organizers' Introduction</td></tr>
 <tr> <td> 09:15	</td> <td> 10:00	</td> <td> Keynote talk: Marco Saerens (Université Catholique de Louvain) (Title TBA)	(Chair: Alejandro Moreo)</td></tr>
@@ -21,3 +22,4 @@ Friday, September 23
 <tr> <td> 11:50	</td> <td> 12:00	</td> <td> Small break	</td></tr>
 <tr> <td> 12:00	</td> <td> 12:45	</td> <td> Open discussion	(Chair: Juan José del Coz)</td></tr>
 </table>
+{{< rawhtml >}}
