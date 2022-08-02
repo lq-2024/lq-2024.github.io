@@ -11,7 +11,7 @@ Friday, September 23
 
 {{< rawhtml >}}
 
-<table style="word-break:normal">
+<table class="mytable">
 <tr> <td> 09:00 </td> <td> 09:15	</td> <td> Organizers' Introduction</td></tr>
 <tr> <td> 09:15	</td> <td> 10:00	</td> <td> Keynote talk: Marco Saerens (Université Catholique de Louvain) (Title TBA)	(Chair: Alejandro Moreo)</td></tr>
 <tr> <td> 10:00	</td> <td> 10:30	</td> <td> Coffee break	</td></tr>
