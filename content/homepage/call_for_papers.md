@@ -1,6 +1,6 @@
 ---
 title: "Call for papers"
-weight: 3
+weight: 1
 header_menu: true
 ---
 
