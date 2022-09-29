@@ -13,7 +13,7 @@ Friday, September 23
 
 <table class="mytable">
 <tr> <td> 10:30 </td> <td> 10:40	</td> <td> Organizers' Introduction</td></tr>
-<tr> <td> 10:40	</td> <td> 11:25	</td> <td> Keynote talk: Marco Saerens (Université Catholique de Louvain): The old EM algorithm for quantification learning: Some past and recent results	(Chair: Alejandro Moreo)</td></tr>
+<tr> <td> 10:40	</td> <td> 11:25	</td> <td> Keynote talk: Marco Saerens (Université Catholique de Louvain): The old EM algorithm for quantification learning: Some past and recent results <a href="slides/quantificationCalibrationPresentation_Saerens_ECML2022.pdf">[slides]</a>	(Chair: Alejandro Moreo)</td></tr>
 <tr> <td> 11:25 </td> <td> 12:45 </td> <td> Regular papers (Chair: Pablo González)</td></tr>
 <tr> <td> 11:25	</td> <td> 11:45	</td> <td> Unification of Algorithms for Quantification and Unfolding, by Mirko Bunse and Katharina Morik (University of Dortmund, DE)</td></tr>
 <tr> <td> 11:45	</td> <td> 12:05	</td> <td> Class Prior Estimation under Covariate Shift: No Problem?, by Dirk Tasche (Independent researcher, CH)	</td></tr>
