@@ -1,9 +1,10 @@
 ---
 title: "Welcome"
 weight: 1
+header_menu: true
 ---
 
-LQ 2022 is a half-day workshop co-located with the [ECML/PKDD 2022](https://2022.ecmlpkdd.org/) conference, and will take place in the morning of Friday, September 23, 2022.
+LQ 2023 {{<marktext>}}is a half-day workshop{{</marktext>}} co-located with the [ECML/PKDD 2023](https://2023.ecmlpkdd.org/) conference, and will take place in September, 2022, in Turin, Italy.
 
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“), is the task of training class prevalence estimators via supervised learning. In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample.
 
@@ -13,7 +14,7 @@ While LQ may in principle be solved by classifying each data item in the sample 
 
 The goal of this workshop is to bring together all researchers interested in methods, algorithms, evaluation measures, evaluation protocols, and methodologies for LQ, as well as practitioners interested in the practical application of the above to managing large quantities of data.
 
-LQ 2022 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers’ opinions do not necessarily reflect those of the European Commission.
+LQ 2023 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers’ opinions do not necessarily reflect those of the European Commission.
 
 {{< rawhtml >}}
 

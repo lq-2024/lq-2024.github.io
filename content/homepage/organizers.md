@@ -7,10 +7,10 @@ header_menu: true
 
 
 <section class="organizers">
-  <img src="https://www.aic.uniovi.es/juanjo/wp-content/uploads/sites/9/2020/02/fotoperfil-2.jpg" alt="Juan José del Coz" class="profile-pic">
+  <img src="https://www-ai.cs.tu-dortmund.de/MG_4302Q_small.jpg?self=%24fvx0vwks8w&part=data" alt="Mirko Bunse" class="profile-pic">
   <div class="organizer-info">
-  <p id="juan-jos-del-coz" class="organizer-name">Juan José del Coz</p>
-  <p id="artificial-intelligence-center-university-of-oviedo-spain">Artificial Intelligence Center, University of Oviedo, Spain</p>
+  <p id="mirko-bunse" class="organizer-name">Mirko Bunse</p>
+  <p id="artificial-intelligence-center-university-of-oviedo-spain">Artificial Intelligence Group, TU Dortmund University, Germany</p>
   </div>
 </section>
 
@@ -48,13 +48,12 @@ header_menu: true
 
 * Rocío Alaíz-Rodríguez, University of León, ES
 * Gustavo Batista, University of New South Wales, AU
-* Mirko Bunse, University of Dortmund, DE
+* Juan José del Coz, University of Oviedo, ES
 * Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
 * Alessandro Fabris, Università di Padova, IT
 * Cèsar Ferri, Universitat Politècnica de València, ES
 * George Forman, Amazon Research, US
 * Wei Gao, Singapore Management University, SG
-* Eric Gaussier, University of Grenoble, FR
 * Rafael Izbicki, Federal University of São Carlos, BR
 * André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR 
 * Marco Saerens, Catholic University of Louvain, BE
