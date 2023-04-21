@@ -4,6 +4,9 @@ weight: 1
 header_menu: true
 ---
 
+Coming soon
+
+<!--
 Two categories of papers are of interest:
 
 * papers reporting original, unpublished research
@@ -35,6 +38,7 @@ and other topics of relevance to LQ.
 
 ##### Submission
 
+
 {{< marktext >}}Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=lq2023){{< /marktext >}}.
 
 
@@ -48,3 +52,4 @@ Papers should be formatted according to the same format as for the main ECML/PKD
 The workshop will be a hybrid event, but it is strongly recommended that authors of accepted papers present the work in-presence. At least one author of each accepted paper must register to present the work. {{< marktext >}} The proceedings of the workshop will not be formally published, so as to allow authors to resubmit their work to other conferences {{</ marktext >}}. Informal proceedings will be published on the workshop website; however, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to these proceedings.
 
 Contact: [LQ2023Chairs@isti.cnr.it](mailto:LQ2023Chairs@isti.cnr.it)
+-->
