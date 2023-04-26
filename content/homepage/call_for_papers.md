@@ -1,19 +1,12 @@
 ---
 title: "Call for papers"
-weight: 1
+weight: 2
 header_menu: true
 ---
 
-Coming soon
-
-<!--
-Two categories of papers are of interest:
-
-* papers reporting original, unpublished research
-* papers {published in 2023 / currently under submission / accepted in 2023} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}
-
 We seek papers on any of the following topics, which will form the main themes of the workshop:
-* Binary, multiclass, and ordinal LQ
+
+* Binary, multiclass, multilabel, and ordinal LQ
 * Supervised algorithms for LQ
 * Semi-supervised / transductive LQ
 * Deep learning for LQ
@@ -22,32 +15,42 @@ We seek papers on any of the following topics, which will form the main themes o
 * Evaluation measures for LQ
 * Experimental protocols for the evaluation of LQ
 * Quantification of streaming data
-* Quantifying text by topic and quantifying text by sentiment
+* Cost-sensitive quantification
+* Improving classifier performance via LQ
 * Novel applications of LQ
 
 and other topics of relevance to LQ.
 
+We seek papers on topics of relevance to LQ. Two categories of papers are of interest:
+
+* papers reporting original, unpublished research; 
+* papers {published in 2023 / currently under submission / accepted in 2023} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}.
 
 ##### Important dates (all 23:59 AoE)
 
 * Paper submission deadline: June 12, 2023
 * A/R notification deadline: July 17, 2023
-* {{< marktext >}}Final copy submission deadline: -{{< /marktext >}}
-* {{< marktext >}}LQ 2023 workshop: -{{< /marktext >}}
-
+* Final copy submission deadline: August 30, 2023
+<!--* LQ 2023 workshop: --->
 
 ##### Submission
 
+Papers should be submitted (specifying which of the above categories they belong to) via [EasyChair](https://easychair.org/conferences/?conf=lq2023).
 
-{{< marktext >}}Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=lq2023){{< /marktext >}}.
-
-
-
-{{< marktext >}}
-Papers should be formatted according to the same format as for the main ECML/PKDD 2023 conference, and should be up to 16 pages (including references) in length; however, this is just the upper bound, and contributions of any length up to this bound will be considered.{{< /marktext >}}
-
+Papers should be formatted according to the same format as for the main [ECML/PKDD 2023](https://2023.ecmlpkdd.org/submissions/research-and-ads-tracks/) conference, and should be up to 16 pages (including references) in length; however, this is just the upper bound, and contributions of any length up to this bound will be considered.
 
 ##### Other information
+
+The workshop will be a hybrid event, but it is strongly recommended that authors of accepted papers present the work in-presence. At least one author of each accepted paper must register to present the work. The proceedings of the workshop will not be formally published, so as to allow authors to resubmit their work to other conferences. Informal proceedings will be published on the workshop website; however, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to these proceedings.
+
+
+<!--
+
+
+
+
+
+
 
 The workshop will be a hybrid event, but it is strongly recommended that authors of accepted papers present the work in-presence. At least one author of each accepted paper must register to present the work. {{< marktext >}} The proceedings of the workshop will not be formally published, so as to allow authors to resubmit their work to other conferences {{</ marktext >}}. Informal proceedings will be published on the workshop website; however, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to these proceedings.
 
