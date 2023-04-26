@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-Coming soon
+The datailed program of the workshop will be published during the Summer 2023
 <!--
 
 LQ 2022 is a half-day workshop, and will take place in Grenoble in the morning of Friday, September 23, 2022. The program of the workshop will feature a keynote talk by Marco Saerens (Université Catholique de Louvain), oral presentations of all the accepted papers, and a final session of discussion.
