@@ -39,5 +39,6 @@ At least one author of each accepted paper must register to present the work. Th
 * Paper submission deadline: June 12, 2023
 * A/R notification deadline: July 17, 2023
 * Final copy submission deadline: August 30, 2023
+* Workshop: September 18, 2023
 <!--* LQ 2023 workshop: --->
 
