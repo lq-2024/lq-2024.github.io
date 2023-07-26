@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-We seek papers on any of the following topics, which will form the main themes of the workshop:
+We seek papers on any of the following topics, which will form the main themes of the LQ 2023 workshop:
 
 * Binary, multiclass, multilabel, and ordinal LQ
 * Supervised algorithms for LQ
@@ -39,6 +39,6 @@ At least one author of each accepted paper must register to present the work. Th
 * Paper submission deadline: June 12, 2023
 * A/R notification deadline: July 17, 2023
 * Final copy submission deadline: August 30, 2023
-* Workshop: September 18, 2023
+* Workshop: Afternoon of September 18, 2023
 <!--* LQ 2023 workshop: --->
 
