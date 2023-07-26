@@ -23,7 +23,7 @@ Monday, September 18
 <tr> <td>  </td> <td> 15:20 </td> <td> 15:40 </td> <td> Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach, by Alessandro Fabris (University of Padova, IT), Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani (all National Council of Research, IT)</td></tr>
 <tr> <td>  </td> <td> 15:40 </td> <td> 16:00 </td> <td> qunfold: Composable Quantification and Unfolding Methods in Python, by Mirko Bunse (University of Dortmund, DE)</td></tr>
 <tr> <td>  </td> <td> 16:00 </td> <td> 16:30 </td> <td> Coffee Break</td></tr>
-<tr> <td> Chair: Mirko Bunse </td> <td> 16:30 </td> <td> 16:50 </td> <td> An Equivalence Analysis of Binary Quantification Methods, by Alberto Castaño, Jaime Alonso, Pablo González, and Juan José del Coz (all Artificial Intelligence Center, University of Oviedo at Gijón)</td></tr>
+<tr> <td> Chair: Mirko Bunse </td> <td> 16:30 </td> <td> 16:50 </td> <td> An Equivalence Analysis of Binary Quantification Methods, by Alberto Castaño, Jaime Alonso, Pablo González, and Juan José del Coz (all University of Oviedo at Gijón)</td></tr>
 <tr> <td>  </td> <td> 16:50 </td> <td> 17:10 </td> <td> Continuous Sweep: An Improved Binary Quantifier, by Kevin Kloos, Julian Karch (both Leiden University, NL), Quinten Meertens (University of Amsterdam, NL), and Mark de Rooij (Leiden University, NL)</td></tr>
 <tr> <td>  </td> <td> 17:10 </td> <td> 17:30 </td> <td> Multi-Label Quantification, by Alejandro Moreo (National Council of Research, IT), Manuel Francisco (University of Granada, ES), and Fabrizio Sebastiani (National Council of Research, IT)</td></tr>
 <tr> <td> Chair: Alejandro Moreo </td> <td> 17:30 </td> <td> 18:00 </td> <td> Open discussion</td></tr>
