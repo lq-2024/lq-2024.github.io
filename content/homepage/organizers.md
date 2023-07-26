@@ -9,7 +9,7 @@ header_menu: true
 <section class="organizers">
   <img src="https://www-ai.cs.tu-dortmund.de/MG_4302Q_small.jpg?self=%24fvx0vwks8w&part=data" alt="Mirko Bunse" class="profile-pic">
   <div class="organizer-info">
-  <p id="mirko-bunse" class="organizer-name">Mirko Bunse</p>
+  <p id="mirko-bunse" class="organizer-name">Mirko Bunse (workshop organizer)</p>
   <p id="artificial-intelligence-center-university-of-oviedo-spain">Artificial Intelligence Group, TU Dortmund University, Germany</p>
   </div>
 </section>
@@ -18,7 +18,7 @@ header_menu: true
 
   <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&amp;user=09PnhhoAAAAJ&amp;citpid=1" alt="Pablo González" class="profile-pic"></p>
   <div class="organizer-info" >
-    <p id="pablo-gonzlez" class="organizer-name">Pablo González</p>
+    <p id="pablo-gonzlez" class="organizer-name">Pablo González (workshop organizer)</p>
     <p id="artificial-intelligence-center-university-of-oviedo-spain-1">Artificial Intelligence Center, University of Oviedo, Spain</p>
   </div>
 </section>
@@ -27,7 +27,7 @@ header_menu: true
 
   <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&amp;user=4RIy5E4AAAAJ&amp;citpid=7" alt="Alejandro Moreo" class="profile-pic">
   <div class="organizer-info">
-    <p id="alejandro-moreo" class="organizer-name">Alejandro Moreo</p>
+    <p id="alejandro-moreo" class="organizer-name">Alejandro Moreo (tutorial speaker and workshop organizer)</p>
     <p id="istituto-di-scienza-e-tecnologie-dellinformazione-consiglio-nazionale-delle-ricerche-pisa-italy">Istituto di Scienza e Tecnologie dell’Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy</p>
   </div>
 </section>
@@ -35,7 +35,7 @@ header_menu: true
 <section class="organizers">
   <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&amp;user=WZBcZV4AAAAJ&amp;citpid=33" alt="Fabrizio Sebastiani" class="profile-pic">
   <div class="organizer-info">
-    <p id="fabrizio-sebastiani" class="organizer-name">Fabrizio Sebastiani</h3>
+    <p id="fabrizio-sebastiani" class="organizer-name">Fabrizio Sebastiani (tutorial speaker and workshop organizer)</h3>
     <p id="istituto-di-scienza-e-tecnologie-dellinformazione-consiglio-nazionale-delle-ricerche-pisa-italy-1">Istituto di Scienza e Tecnologie dell’Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy</p>
     </div>
 </section>
