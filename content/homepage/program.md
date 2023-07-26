@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-The following is a preliminary program (precise timings are subject to change).
+The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
 
 Monday, September 18
 
@@ -12,7 +12,11 @@ Monday, September 18
 
 <table class="mytable">
 
-
+<tr> <td>  </td> <td> 08:30 </td> <td> 09:00 </td> <td> Registration</td></tr>
+<tr> <td>  </td> <td> 09:00 </td> <td> 11:00 </td> <td> Tutorial: Learning to Quantify, Part I, by Alejandro Moreo and Fabrizio Sebastiani</td></tr>
+<tr> <td>  </td> <td> 11:00 </td> <td> 11:30 </td> <td> Coffee Break</td></tr>
+<tr> <td>  </td> <td> 11:30 </td> <td> 13:00 </td> <td> Tutorial: Learning to Quantify, Part II, by Alejandro Moreo and Fabrizio Sebastiani</td></tr>
+<tr> <td>  </td> <td> 13:00 </td> <td> 14:30 </td> <td> Lunch Break</td></tr>
 <tr> <td> Chair: Fabrizio Sebastiani </td> <td> 14:30 </td> <td> 14:40 </td> <td> Chairs' Introduction</td></tr>
 <tr> <td> Chair: Pablo Gonzalez </td> <td> 14:40 </td> <td> 15:00 </td> <td> Invariance Assumptions for Class Distribution Estimation, by Dirk Tasche (Independent researcher, CH)</td></tr>
 <tr> <td>  </td> <td> 15:00 </td> <td> 15:20 </td> <td> MC-SQ and MC-MQ: Ensembles for Multi-class Quantification, by Zahra Donyavi (University of New South Wales, AU), Adriane Serapião (Saõ Paulo State University, BR), and Gustavo Batista  (University of New South Wales, AU)</td></tr>
