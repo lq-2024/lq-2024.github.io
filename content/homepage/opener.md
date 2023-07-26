@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-LQ 2023 is a tutorial + workshop event co-located with the [ECML/PKDD 2023](https://2023.ecmlpkdd.org/) conference, and will take place on September 18, 2023, in Torino, Italy; the tutorial will take place in the morning, while the workshop will take place in the afternoon.
+LQ 2023 is a tutorial + workshop event co-located with the [ECML/PKDD 2023](https://2023.ecmlpkdd.org/) conference, and will take place on September 18, 2023, in Torino, Italy; the tutorial will take place in the morning, while the 3rd International Workshop on Learning to Quantify (LQ 2023) will take place in the afternoon.
 
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“, or “unfolding”), is the task of training class prevalence estimators via supervised learning. In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample.
 
