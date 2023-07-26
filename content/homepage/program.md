@@ -17,7 +17,7 @@ Monday, September 18, 2023
 <tr> <td>  </td> <td> 11:00 </td> <td> 11:30 </td> <td> Coffee Break</td></tr>
 <tr> <td>  </td> <td> 11:30 </td> <td> 13:00 </td> <td> <strong>Tutorial: Learning to Quantify, Part II</strong>, by Alejandro Moreo and Fabrizio Sebastiani (both National Council of Research, IT)</td></tr>
 <tr> <td>  </td> <td> 13:00 </td> <td> 14:30 </td> <td> Lunch Break</td></tr>
-<tr> <td> Chair: Fabrizio Sebastiani </td> <td> 14:30 </td> <td> 14:40 </td> <td> Chairs' Introduction</td></tr>
+<tr> <td> Chair: Fabrizio Sebastiani </td> <td> 14:30 </td> <td> 14:40 </td> <td> Workshop Chairs' Introduction</td></tr>
 <tr> <td rowspan="4"> Chair: Pablo Gonzalez </td> <td> 14:40 </td> <td> 15:00 </td> <td> <strong>Invariance Assumptions for Class Distribution Estimation</strong>, by Dirk Tasche (Independent researcher, CH)</td></tr>
 <tr> <td>  15:00 </td> <td> 15:20 </td> <td> <strong>MC-SQ and MC-MQ: Ensembles for Multi-class Quantification</strong>, by Zahra Donyavi (University of New South Wales, AU), Adriane Serapião (Saõ Paulo State University, BR), and Gustavo Batista  (University of New South Wales, AU)</td></tr>
 <tr> <td>  15:20 </td> <td> 15:40 </td> <td> <strong>Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach</strong>, by Alessandro Fabris (University of Padova, IT), Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani (all National Council of Research, IT)</td></tr>
