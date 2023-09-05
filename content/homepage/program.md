@@ -6,7 +6,8 @@ header_menu: true
 
 The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
 
-Monday, September 18, 2023
+When: Monday, September 18, 2023
+Where: Aula 9I
 
 {{< rawhtml >}}
 
