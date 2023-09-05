@@ -8,7 +8,7 @@ The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
 
 When: Monday, September 18, 2023
 
-Where: Aula 9I
+Where: [Aula 9I](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?sellocale=bl_id%253DTO_CIT08%2526fl_id%253DXS01%2526rm_id%253D010&lang=it)
 
 {{< rawhtml >}}
 
