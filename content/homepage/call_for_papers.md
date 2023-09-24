@@ -17,6 +17,7 @@ We seek papers on any of the following topics, which will form the main themes o
 * Quantification of streaming data
 * Cost-sensitive quantification
 * Improving classifier performance via LQ
+* New datasets for evaluating quantification systems
 * Novel applications of LQ
 
 and other topics of relevance to LQ. Two categories of papers are of interest:
