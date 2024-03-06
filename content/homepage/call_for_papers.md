@@ -1,5 +1,5 @@
 ---
-title: "Call for papers for the LQ 2023 Workshop"
+title: "Call for papers for the LQ 2024 Workshop"
 weight: 2
 header_menu: true
 ---

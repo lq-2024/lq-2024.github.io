@@ -46,7 +46,7 @@ header_menu: true
 
 ##### Program Committee
 
-* Rocío Alaíz-Rodríguez, University of León, ES
+<!-- * Rocío Alaíz-Rodríguez, University of León, ES
 * Gustavo Batista, University of New South Wales, AU
 * Juan José del Coz, University of Oviedo, ES
 * Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
@@ -57,4 +57,5 @@ header_menu: true
 * Rafael Izbicki, Federal University of São Carlos, BR
 * André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR 
 * Marco Saerens, Catholic University of Louvain, BE
-* Dirk Tasche, Swiss Financial Market Supervisory Authority, CH
+* Dirk Tasche, Swiss Financial Market Supervisory Authority, CH -->
+To be announced.
