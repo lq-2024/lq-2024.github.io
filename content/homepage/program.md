@@ -4,7 +4,9 @@ weight: 4
 header_menu: true
 ---
 
-The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
+To be announced.
+
+<!-- The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
 
 When: Monday, September 18, 2023
 
@@ -31,4 +33,4 @@ Where: [Aula 9I](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?sellocale=b
 <tr> <td> Chair: Alejandro Moreo </td> <td> 17:30 </td> <td> 18:00 </td> <td> Open discussion</td></tr>
 </table>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->

@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-We seek papers on any of the following topics, which will form the main themes of the LQ 2023 workshop:
+<!-- We seek papers on any of the following topics, which will form the main themes of the LQ 2023 workshop:
 
 * Binary, multiclass, multilabel, and ordinal LQ
 * Supervised algorithms for LQ
@@ -23,9 +23,10 @@ We seek papers on any of the following topics, which will form the main themes o
 and other topics of relevance to LQ. Two categories of papers are of interest:
 
 * papers reporting original, unpublished research; 
-* papers {published in 2023 / currently under submission / accepted in 2023} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}.
+* papers {published in 2023 / currently under submission / accepted in 2023} at other {workshops / conferences / journals}, provided this double submission does not violate the rules of these {workshops / conferences / journals}. -->
+To be announced. 
 
-##### Submission
+<!-- ##### Submission
 
 Papers should be submitted (specifying which of the two above categories they belong to) via [EasyChair](https://easychair.org/conferences/?conf=lq2023).
 
@@ -40,6 +41,6 @@ At least one author of each accepted paper must register to present the work. Th
 * Paper submission deadline: June 12, 2023
 * A/R notification deadline: July 17, 2023
 * Final copy submission deadline: August 30, 2023
-* Workshop: Afternoon of September 18, 2023
-<!--* LQ 2023 workshop: --->
+* Workshop: Afternoon of September 18, 2023 -->
+<!--* LQ 2024 workshop: --->
 
