@@ -9,7 +9,7 @@ header_menu: true
 <section class="organizers">
   <img src="https://www-ai.cs.tu-dortmund.de/MG_4302Q_small.jpg?self=%24fvx0vwks8w&part=data" alt="Mirko Bunse" class="profile-pic">
   <div class="organizer-info">
-  <p id="mirko-bunse" class="organizer-name">Mirko Bunse (workshop organizer)</p>
+  <p id="mirko-bunse" class="organizer-name">Mirko Bunse (tutorial speaker and workshop organizer)</p>
   <p id="artificial-intelligence-center-university-of-oviedo-spain">Artificial Intelligence Group, TU Dortmund University, Germany</p>
   </div>
 </section>
@@ -46,7 +46,7 @@ header_menu: true
 
 ##### Program Committee
 
-<!-- * Rocío Alaíz-Rodríguez, University of León, ES
+* Rocío Alaíz-Rodríguez, University of León, ES
 * Gustavo Batista, University of New South Wales, AU
 * Juan José del Coz, University of Oviedo, ES
 * Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
@@ -55,7 +55,7 @@ header_menu: true
 * George Forman, Amazon Research, US
 * Wei Gao, Singapore Management University, SG
 * Rafael Izbicki, Federal University of São Carlos, BR
-* André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR 
+* André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR
+* Tobias Schumacher, University of Mannheim, DE
 * Marco Saerens, Catholic University of Louvain, BE
-* Dirk Tasche, Swiss Financial Market Supervisory Authority, CH -->
-To be announced.
+* Dirk Tasche, Swiss Financial Market Supervisory Authority, CH
