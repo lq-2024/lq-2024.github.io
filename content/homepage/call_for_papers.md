@@ -41,6 +41,6 @@ At least one author of each accepted paper must register to present the work. Th
 * Paper submission deadline: June 15, 2024
 * A/R notification deadline: July 15, 2024
 * Final copy submission deadline: August 25, 2024
-* Workshop: September 9 or September 13, 2024
+* Workshop: September 13, 2024
 <!--* LQ 2024 workshop: --->
 

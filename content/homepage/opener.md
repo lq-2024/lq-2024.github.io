@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-"Learning to Quantify: Methods and Applications" is a tutorial + workshop event co-located with the [ECML/PKDD 2024](https://2024.ecmlpkdd.org/) conference, and will take place on September 9-13, 2024, in Vilnius, Lithuania. 
+"Learning to Quantify: Methods and Applications" is a tutorial + workshop event co-located with the [ECML/PKDD 2024](https://2024.ecmlpkdd.org/) conference, and will take place on Friday, September 13, 2024, in Vilnius, Lithuania. 
 
 <!-- the tutorial will take place in the morning, while the 3rd International Workshop on Learning to Quantify (LQ 2024) will take place in the afternoon. -->
 
